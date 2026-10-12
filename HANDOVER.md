@@ -32,7 +32,7 @@ Set as env vars before running the setup script:
 - `SUPABASE_DB_PASSWORD` — Project Settings → Database (reset to reveal).
 - `SUPABASE_SERVICE_ROLE_KEY` — Project Settings → API → `service_role` (secret).
 - `API_FOOTBALL_KEY` — the api-football.com (api-sports) **paid Pro** key. Current value the user gave:
-  `4223871268e169482ffdd3ec23cb0e6d` (confirm with them).
+  `<removed: rotated by owner>` (confirm with them).
 - Project ref: **`pkzlcfkupayzqphxjjgi`**, URL `https://pkzlcfkupayzqphxjjgi.supabase.co`,
   publishable/anon key `sb_publishable_OPp3qRTTno8kyl2ZCMtOLg_sLiK0J2b` (already baked into
   `src/data/supabase.ts` as a safe fallback).
